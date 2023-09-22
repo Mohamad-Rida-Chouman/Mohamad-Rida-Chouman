@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">I'm Mohamad Rida Chouman, and I turn coffee into more anxiety (You thought I was gonna say code, didn't you /ᐠ .ᆺ. ᐟ\ﾉ ?)<br><br>- I'm always eager to learn more skills, especially front-end related web development ones ૮(˶•ᵕ•˶)੭.<br>- I like writing code, watching anime and playing video games. I am pretty good at 2 of those (°-°) /.<br><br></h3>
+<p align="left">I'm Mohamad Rida Chouman, and I turn coffee into more anxiety (You thought I was gonna say code, didn't you /ᐠ .ᆺ. ᐟ\ﾉ ?)<br><br>- I'm always eager to learn more skills, especially front-end related web development ones ૮(˶•ᵕ•˶)੭.<br>- I like writing code, watching anime and playing video games. I am pretty good at 2 of those (°-°) /.<br><br></p>
 
 ###
 
