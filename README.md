@@ -2,7 +2,7 @@
   <img height="150" src="https://media.tenor.com/Nx4gRgudzx4AAAAC/anime-typing.gif"  />
 </div>
 
-
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamad-rida-chouman/" target="_blank">
@@ -13,29 +13,29 @@
   </a>
 </div>
 
-
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamad-Rida-Chouman.Mohamad-Rida-Chouman&"  />
 </div>
 
-
+###
 
 <h1 align="center">(●っゝω・)っ～☆HELLO☆</h1>
 
+###
 
+<h3 align="center">About Me  ৻(  •̀ ᗜ •́  ৻)</h3>
 
-<h2 align="center">About Me  ৻(  •̀ ᗜ •́  ৻)</h2>
+###
 
+<p align="left">I'm Mohamad Rida Chouman, and I turn coffee into more anxiety (You thought I was gonna say code, didn't you /ᐠ .ᆺ. ᐟ\ﾉ ?)<br><br>- I'm always eager to learn more skills, especially front-end related web development ones ૮(˶•ᵕ•˶)੭.<br>- I like writing code, watching anime and playing video games. I am pretty good at 2 of those (°-°) /.</p>
 
-
-<h4 align="left">I'm Mohamad Rida Chouman, and I turn coffee into more anxiety (You thought I was gonna say code, didn't you /ᐠ .ᆺ. ᐟ\ﾉ ?)<br><br>- I'm always eager to learn more skills, especially front-end related web development ones ૮(˶•ᵕ•˶)੭.<br>- I like writing code, watching anime and playing video games. I am pretty good at 2 of those (°-°) /.</h4>
-
-
+###
 
 <h3 align="center">(°∀°)ゝ” Language and tools</h3>
 
-
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -61,15 +61,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-
+###
 
 <h3 align="center">My Stats  \(o^▪^o)/</h3>
 
+###
 
 <div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamad-Rida-Chouman&theme=dark&hide_border=false)<br/>
-
+  <img src="https://streak-stats.demolab.com?user=Mohamad-Rida-Chouman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
+###
