@@ -39,6 +39,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamad-Rida-Chouman.Mohamad-Rida-Chouman&"  />
+</div>
+
+###
+
 <h1 align="center">(●っゝω・)っ～☆HELLO☆</h1>
 
 ###
@@ -82,5 +88,11 @@
 ###
 
 <h3 align="center">My Stats  \(o^▪^o)/</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamad-Rida-Chouman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
