@@ -91,8 +91,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamad-Rida-Chouman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamad-Rida-Chouman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Rida-Chouman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
