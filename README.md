@@ -1,4 +1,10 @@
-![](https://tenor.com/view/deku-java-programing-cry-mochiatun-gif-24211286)
+###
+
+<div align="center">
+  
+![](https://github.com/Mohamad-Rida-Chouman/Mohamad-Rida-Chouman/blob/main/deku-java.gif)
+
+</div>
 
 ###
 
