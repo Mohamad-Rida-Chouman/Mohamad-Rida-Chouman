@@ -1,15 +1,13 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/Nx4gRgudzx4AAAAC/anime-typing.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/Mohamad-Rida-Chouman/Mohamad-Rida-Chouman/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamad-rida-chouman/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="shumanmohammadrida@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -25,7 +23,7 @@
 
 ###
 
-<h3 align="center">About Me  ৻(  •̀ ᗜ •́  ৻)</h3>
+<h3 align="left">About Me  ৻(  •̀ ᗜ •́  ৻)</h3>
 
 ###
 
@@ -33,7 +31,7 @@
 
 ###
 
-<h3 align="center">(°∀°)ゝ” Language and tools</h3>
+<h3 align="left">Language and tools (°∀°)ゝ”</h3>
 
 ###
 
@@ -63,7 +61,7 @@
 
 ###
 
-<h3 align="center">My Stats  \(o^▪^o)/</h3>
+<h3 align="left">My Stats \(o^▪^o)/</h3>
 
 ###
 
