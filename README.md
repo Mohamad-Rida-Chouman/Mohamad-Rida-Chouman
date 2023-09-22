@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Mohamad-Rida-Chouman/Mohamad-Rida-Chouman/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -67,6 +65,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamad-Rida-Chouman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left"> Have a Laugh! (ᗒᗜᗕ)՛̵̖</h3>
+
+###
+
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
 ###
