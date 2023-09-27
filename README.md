@@ -23,9 +23,9 @@
 ###
 
 <p align="left">I'm Mohamad Rida Chouman, and I turn coffee into more anxiety (You thought I was gonna say code, didn't you /ᐠ .ᆺ. ᐟ\ﾉ ?)<br><br>- I'm always eager to learn more skills, especially front-end related web development ones ૮(˶•ᵕ•˶)੭.<br>- I like writing code, watching anime and playing video games. I am pretty good at 2 of those (°-°) /.<br>- I am a full-stack web developer currently residing in Lebanon. Feel free to contact me on email: <a href="shumanmohammadrida@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="15" height="10" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  />
   </a> and check my LinkedIn profile: <a href="https://www.linkedin.com/in/mohamad-rida-chouman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="15" height="10" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  />
   </a> (๏ᆺ๏υ) /.<br><br></p>
 
 ###
